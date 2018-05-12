@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/42086
     wikipedia: https://fi.wikipedia.org/wiki/Otto_Engelbrekt_Jaatinen
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43236#Kuninkaan-tuomioN-ytelm--3-ssa-n-yt-ksess--lauluineen
 gutenberg_issued: '2013-07-17'
 gutenberg_type: Text
 identifiers:
